@@ -1,0 +1,5 @@
+===== METRO TICKET =====
+From: AIIMS
+To: Red Fort
+Distance: 7 km
+Fare: ₹20
